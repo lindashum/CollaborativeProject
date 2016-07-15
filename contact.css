@@ -71,3 +71,11 @@ input[type = "text"], textarea
 form{
 	font-family: "Comic Sans MS", cursive, sans-serif;
 }
+
+#footer1 {
+    width:100%;
+    text-align:center;
+    padding-top:5px;
+    padding-bottom:5px;
+  	font-color: #4e9b5a;
+}
